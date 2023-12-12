@@ -1,7 +1,7 @@
 ### Hi to every one! 👋
 
 <h1 align="center">Hi there, I'm Dmitry </a> 
-<h3 align="center">I am a self-learning QA engineer, with a great desire to learn automated testing</h3>
+<h3 align="center">I am a self-learning QA engineer, with a great desire to learn automated testing on Python and JS </h3>
 
 <!--
 **Amid-Kirdum/Amid-Kirdum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
