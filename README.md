@@ -4,7 +4,7 @@
 <h3 align="center">I am a self-learning QA engineer, with a great desire to learn automated testing on Python and JS </h3>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="500"/>
 </div>
 
 
