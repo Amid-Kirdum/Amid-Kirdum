@@ -1,4 +1,4 @@
-### Hi to every one! 👋
+### Hi! 👋
 
 <h1 align="center">Hi there, I'm Dmitry </a> 
 <h3 align="center">I am a self-learning QA engineer,<br>with a great desire to learn automation testing on Python and JS </h3>
